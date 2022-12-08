@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">QUIZ</string>
+    <string name="primera">El número atómico del litio es 17
+</string>
+    <string name="segunda">Un cruce entre un caballo y una cebra se llama "Cabce"
+</string>
+    <string name="tercera">La caja negra de un avión es negra
+</string>
+    <string name="cuarta">La acrofobia es el miedo al ajo
+</string>
+    <string name="quinta">La estrella de Sex Education, Gillian Anderson, nació en Chicago, Illinois
+</string>
+    <string name="sexta">El Príncipe Enrique es más alto que el Príncipe Guillermo
+</string>
+    <string name="septima">El signo zodiacal Acuario está representado por un tigre
+</string>
+    <string name="octava">Meryl Streep ha ganado dos premios de la Academia
+</string>
+    <string name="novena">Marrakech es la capital de Marruecos
+</string>
+    <string name="decima">Idina Menzel canta "let it go" 20 veces en "Let It Go" de Frozen
+</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct</string>
+    <string name="incorrect_toast">Incorrect</string>
+    <string name="next_button">Next</string>
+    <string name="back_button">Back</string>
+</resources>
